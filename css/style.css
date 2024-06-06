@@ -1,0 +1,144 @@
+*{
+margin:0px; padding:0px; box-sizing:border-box;
+}
+.body{
+  font-family: "Roboto", sans-serif;
+}
+a{text-decoration: none;}
+.container{width:1200px; margin:auto;
+
+}
+.flex{display:flex; justify-content: space-between; align-items: center;}
+nav ul{display:flex; gap:50px; list-style: none;}
+
+header{
+ padding:30px 0px;
+  justify-content: center;
+
+  
+}
+.first h1{
+  color:#535878;
+  font-size: 40px;
+  padding:10px;
+ 
+}
+ul li a{
+  border:1px solid #535878 ;
+  padding:10px;
+  border-radius:10px;
+
+  color: #535878;
+ 
+}
+.paper:hover{
+  background:#535878;
+  color:white;
+
+}
+.pen:hover{
+  background:#535878;
+  color:white;
+}
+.book:hover{
+  background:#535878;
+  color:white;
+}
+
+.lap:hover{
+  background:#535878;
+  color:white;
+}
+
+
+
+.one a{
+  background: #535878;
+   color:white;
+
+
+ 
+  
+  
+}
+.bottle a:hover{
+ background: #535878;
+ color:white;
+ 
+}
+.photo a:hover{
+  background: #535878;
+  color:white;
+  
+ }
+ .pic a:hover{
+  background: #535878;
+  color:white;
+  
+ }
+
+ .frame a:hover{
+  background: #535878;
+  color:white;
+  
+ }
+
+ .mask a:hover{
+  background: #535878;
+  color:white;
+  
+ }
+ 
+ 
+
+.banner{
+  font-size:20px;
+  
+ 
+
+
+
+}
+.banner img{
+  width:25%;
+  height:25%;
+  border-radius:10%;
+  margin-left:500px;
+ 
+ 
+}
+
+.second {
+  margin-left:580px;
+  font-size:15px;
+  margin-top:-10px;
+ 
+  
+  align-items: center;
+  justify-content:center ;
+ padding:15px;
+ 
+  
+
+}
+h1{
+  font-size:20px;
+
+
+}
+
+  
+.three {
+  margin-left:580px;
+  list-style:none;
+  align-items: center;
+  justify-content: center;
+  margin-top:0px;
+
+  
+
+}
+
+
+ 
+

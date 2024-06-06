@@ -1,0 +1,183 @@
+*{
+  margin:0px; padding:0px; box-sizing:border-box;
+  }
+  .body{
+    font-family: "Roboto", sans-serif;
+  }
+  a{text-decoration: none;}
+  .container{width:1200px; margin:auto;}
+
+  .laptop h1{
+    font-size:30px;
+    margin:50px 0px;
+    color:#535878;
+  }
+  .mob {
+    border:2px solid  #535878;
+   
+ 
+    width:150px;
+    float: right;
+    margin-right:76%;
+    margin-top:-65px;
+    
+    
+
+
+
+  }
+  .bottle h1{
+    color:#535878;
+    margin-left:30px ;
+    padding:30px;
+    gap:100px;
+    margin-right:300px;
+    margin-left:100px;
+
+   
+  }
+ 
+  
+  .card h4{
+    margin:20px 90px;
+    font-size: 15px;
+   
+
+  }
+  .card h1{
+    font-size:20px;
+    margin:20px 30px;
+  }
+  .card h2{
+    font-size:10px;
+    margin:20px 90px;
+  }
+  .box h1{
+    float: right;
+    margin-right:550px;
+    margin-top:-63px;
+    color:#535878;
+    gap:500px;
+    
+
+  }
+  .compass h1{
+    float: right;
+    margin-top:-65px;
+    margin-right:150px;
+
+ 
+    color:#535878;
+    gap:500px;
+  }
+.book{
+  border:2px solid black;
+  width:360px;
+  height:150px;
+  margin-left:30px;
+  background-color: #535878;
+  margin-top:50px;
+  border-radius:40px ;
+  float: right;
+  margin-right:20px;
+  
+}
+  
+.last{
+  font-size: 20px;
+  margin-top:55%;
+  margin-left:40%;
+
+
+
+
+  
+
+
+
+
+
+}
+
+.iron h5{
+  border:2px solid black;
+  width:200px;
+  height:50px;
+  margin-top:5%;
+  margin-left:25%;
+  font-size:20px;
+  border-radius:10px;
+  background:whitesmoke;
+  color:gray;
+  padding:10px;
+ 
+}
+.photo{
+  border:2px solid black;
+  width:200px;
+  height:50px;
+  margin-top:5%;
+  margin-right:350px;
+  font-size:25px;
+  border-radius:10px;
+  background:whitesmoke;
+  color:gray;
+  float: right;
+  margin-top:-274px;
+  padding:10px;
+ 
+}
+.charge{
+  border:2px solid black;
+  width:200px;
+  height:50px;
+  margin-top:5%;
+  margin-right:380px;
+  font-size:25px;
+  border-radius:10px;
+  background:whitesmoke;
+  color:gray;
+  float: right;
+  margin-top:-161px;
+  padding:10px;
+}
+.bed{
+  border:2px solid black;
+  width:200px;
+  height:50px;
+  margin-top:5%;
+  margin-right:380px;
+  font-size:25px;
+  border-radius:10px;
+  background:whitesmoke;
+  color:gray;
+  float: right;
+  margin-top:-50px;
+  padding:10px;
+}
+.btn {
+  border:2px solid white;
+  background:#9497af;
+
+  width:150px;
+  height:50px;
+  margin-top:70px;
+  margin-right: 1000%;
+  padding:15px;
+  margin-left:-150px;
+  
+ 
+
+ 
+
+
+
+
+
+
+}
+.btn:hover{
+  background: #535878;
+  color:aliceblue;
+
+}
